@@ -1,5 +1,5 @@
 /**
- * This file represents Youtube Game Bar Overlay's Feedback Server. 
+ * This file represents YTGBO's Feedback Server. 
  * It receives HTTP Requests and transforms it into SMTP messages aimed to be sent to the developer as a feedback message.
  *
  * @author: Marconi Gomes (marconi.gomes7@gmail.com)
