@@ -27,7 +27,7 @@
   "homepage": "https://github.com/MarconiGRF/YTGameBarFeedbackServer#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.6.1",
     "winston": "^3.3.3"
   }
 }
